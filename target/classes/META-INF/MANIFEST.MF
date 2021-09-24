@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: a0g06t9
+Build-Jdk: 11.0.9.1
+Implementation-Title: barraiser applicant test
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.barraiser
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/barraiser
+Created-By: Maven Integration for Eclipse
+
